@@ -1,2 +1,1 @@
-Rimantas Kabaila
-Symfony install printscreen`s.
+Project Bookkeeper
