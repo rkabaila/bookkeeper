@@ -120,4 +120,8 @@ class BookController extends Controller {
          return $this->redirect($this->generateUrl('book'));
    }   
 
+   public function temp(){
+    return true;
+   }
+
 }
